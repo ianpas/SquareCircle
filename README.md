@@ -1,8 +1,16 @@
 # SquareCircle
-A mini-game made with Unity.
+A mini-game made with Unity.<br>
+
+This game is inspired by a mini game in Super Mario Odyssey, see [this](https://www.youtube.com/watch?v=oYI0VNyG-Ys): <br>
+
+<img src="https://github.com/yunstore/SquareCircle/blob/master/mini-game.png" alt="mini game" />
+
+<img src="https://github.com/yunstore/SquareCircle/blob/master/square-circle.png" alt="square circle" />
 
 # How to play
-<video width="320" height="240" controls>
-  <source src="https://github.com/ianpas/SquareCircle/blob/master/Assets/Video/SquareCircle%202_6_2018%201_48_27%20PM.mp4" type="video/mp4">
-</video>
 
+see [demo video](https://github.com/yunstore/SquareCircle/blob/master/SquareCircle%202_6_2018%201_48_27%20PM.mp4).
+
+# Release
+
+see [this](https://github.com/ianpas/SquareCircle/releases).
