@@ -1,2 +1,2 @@
 # SquareCircle
-A mini-game made in Unity.
+A mini-game made with Unity.
